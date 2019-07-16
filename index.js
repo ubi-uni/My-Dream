@@ -26,7 +26,7 @@ if(self.value === 'night') {
     }
  
 else {
-    Body.setBackgroundColor('white');
+    Body.setBackgroundColor('#81ecec');
     Body.setColor('black');
     self.value = 'night'
     Links.setColor('black');
