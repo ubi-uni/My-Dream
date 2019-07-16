@@ -20,7 +20,7 @@ function nightDayHandler(self) {
     var target = document.querySelector('body');
 if(self.value === 'night') {
     Body.setBackgroundColor('black');
-    Body.setColor('white');
+    Body.setColor('#81ecec');
     self.value = 'day'
     Links.setColor('powderblue');
     }
