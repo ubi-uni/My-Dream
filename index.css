@@ -1,0 +1,21 @@
+h1 {
+    text-align: right;
+    font-size: 60px;
+}
+.home {
+    
+    width: 700px;
+}
+.a {
+    width: 840px;
+}
+a {
+    text-decoration-line: none;
+    color: black;
+}
+img {
+    width: 70%
+}
+body {
+    font-size: 30px;
+}
